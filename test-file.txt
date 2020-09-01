@@ -2,4 +2,8 @@ trying pull from branch develop !!!!!!!
 Everything is fine.
 u sure?
 yes,i am
+<<<<<<< HEAD
 hmm okk
+=======
+great then.
+>>>>>>> fe8562107e30f2203142b759304a428bd80db39c
