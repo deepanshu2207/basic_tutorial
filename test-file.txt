@@ -4,10 +4,5 @@ u sure?
 yes,i am
 hmm okk
 great then.
-<<<<<<< HEAD
->>>>>>> fe8562107e30f2203142b759304a428bd80db39c
 
 What's happening??
-
-=======
->>>>>>> 967d723e016f9cda806df74ab6a4afd47fae81d0
