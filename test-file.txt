@@ -7,10 +7,10 @@ great then.
 
 
 
-<<<<<<< HEAD
-=======
+
+
 ok good!
 byeeeee!
->>>>>>> 07c91af... changed text
+
 
 oh h
