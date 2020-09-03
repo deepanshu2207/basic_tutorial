@@ -1,11 +1,8 @@
 hey, check it out!!
-<<<<<<< HEAD
 hmmm
 
 
 
 okk
-=======
 How is everything going??
 bye!!!
->>>>>>> 654e2f1... check this
